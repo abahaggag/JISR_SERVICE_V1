@@ -1,0 +1,16 @@
+D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\JISR_SERVICE_V1.exe.config
+D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\JISR_SERVICE_V1.exe
+D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\JISR_SERVICE_V1.pdb
+D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\obj\Debug\JISR_SERVICE_V1.exe
+D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\obj\Debug\JISR_SERVICE_V1.pdb
+D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\obj\Debug\JISR_SERVICE_V1.AttendanceService.resources
+D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\obj\Debug\JISR_SERVICE_V1.csproj.GenerateResource.Cache
+D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\obj\Debug\JISR_SERVICE_V1.ProjectInstaller.resources
+D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\obj\Debug\JISR_SERVICE_V1.csproj.App.config
+D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\Newtonsoft.Json.dll
+D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\System.Net.Http.Extensions.dll
+D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\System.Net.Http.Primitives.dll
+D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\Newtonsoft.Json.xml
+D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\System.Net.Http.Extensions.xml
+D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\System.Net.Http.Primitives.xml
+D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\obj\Debug\JISR_SERVICE_V1.csprojResolveAssemblyReference.cache

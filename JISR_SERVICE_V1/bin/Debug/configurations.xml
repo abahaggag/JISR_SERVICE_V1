@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configurations>
+  <Attendance>
+    <AccessToken>4d82588cf84225b307554830858d1b41</AccessToken>
+    <ConnectionString>server=.\mssql;uid=sa;pwd=123;database=eSSLSmartOffice</ConnectionString>
+    <BaseAddress>http://api.dev.arbab.clicksandbox.com/v1/</BaseAddress>
+    <Login>varun@clickapps.co</Login>
+    <Password>varun</Password>
+    <TimerInterval>60000</TimerInterval>
+  </Attendance>
+</Configurations>
