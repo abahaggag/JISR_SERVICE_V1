@@ -356,7 +356,7 @@ namespace JISR_SERVICE_V1
                     new Record
                     {
                         id = Convert.ToString(row["EmployeeCode"]),
-                        day = Convert.ToDateTime(row["LogDate"]).ToString("MM/dd/yyyy"),
+                        day = Convert.ToDateTime(row["LogDate"]).ToString("dd/MM/yyyy"),
                         time = Convert.ToDateTime(row["LogDate"]).ToString("HH:mm"),
                         direction = row["Direction"].ToString()
                     }
