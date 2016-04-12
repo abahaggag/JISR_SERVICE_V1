@@ -355,7 +355,7 @@ namespace JISR_SERVICE_V1
                 list.Add(
                     new Record
                     {
-                        id = Convert.ToInt32(row["EmployeeCode"]),
+                        id = Convert.ToString(row["EmployeeCode"]),
                         day = Convert.ToDateTime(row["LogDate"]).ToString("MM/dd/yyyy"),
                         time = Convert.ToDateTime(row["LogDate"]).ToString("HH:mm"),
                         direction = row["Direction"].ToString()
@@ -382,7 +382,7 @@ namespace JISR_SERVICE_V1
 
     public class Record
     {
-        public int id { get; set; }
+        public string id { get; set; }
         public string day { get; set; }
         public string time { get; set; }
         public string direction { get; set; }

@@ -570,3 +570,24 @@ Affected parameters are:
    logtoconsole = 
    logfile = d:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\JISR_SERVICE_V1.InstallLog
    assemblypath = d:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\JISR_SERVICE_V1.exe
+Uninstalling assembly 'D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\JISR_SERVICE_V1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\JISR_SERVICE_V1.InstallLog
+   assemblypath = D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\JISR_SERVICE_V1.exe
+Removing EventLog source AttendanceService.
+Service AttendanceService is being removed from the system...
+Service AttendanceService was successfully removed from the system.
+Installing assembly 'D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\JISR_SERVICE_V1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\JISR_SERVICE_V1.InstallLog
+   assemblypath = D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\JISR_SERVICE_V1.exe
+Installing service AttendanceService...
+Service AttendanceService has been successfully installed.
+Creating EventLog source AttendanceService in log Application...
+Committing assembly 'D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\JISR_SERVICE_V1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\JISR_SERVICE_V1.InstallLog
+   assemblypath = D:\AAABProjects\JISR_SERVICE_V1\JISR_SERVICE_V1\bin\Debug\JISR_SERVICE_V1.exe
